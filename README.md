@@ -18,3 +18,8 @@ The system comprises two main components:
 ### Constraints
 * The system must be **scalable** to handle a growing number of subscribers.
 * The implementation must follow **Object-Oriented Design (OOD)** principles and promote loose coupling.
+  
+---
+
+## 2. UML Class Diagram
+<img width="1344" height="770" alt="Blank diagram-6" src="https://github.com/user-attachments/assets/e1ce8922-684e-4204-95d8-e9bbcea970f7" />
